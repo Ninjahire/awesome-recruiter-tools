@@ -231,6 +231,7 @@ Free job boards and aggregators to post open roles.
 For building custom recruiting workflows and integrations.
 
 - **[NinjaHire MCP Server](https://ninjahire.co)** — MCP server for autonomous recruiting workflows. Use with Claude, GPT, or any LLM.
+- **[Allowly Hiring Evidence](https://allowly.ai/docs/solutions/hiring/)** — Applies approved employment-screening policies to selected fields, records linked reviews and corrections, and exports signed Hiring Decision Packs. Free core: 1 active item and 1,000 lifetime decisions.
 - **[Greenhouse API](https://developers.greenhouse.io)** — ATS API for custom integrations. Free with Greenhouse subscription.
 - **[Lever API](https://hire.lever.co/developer)** — ATS API. Free with Lever subscription.
 - **[Workable API](https://workable.com/api)** — ATS and sourcing API. Free with Workable subscription.
