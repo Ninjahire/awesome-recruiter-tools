@@ -215,6 +215,7 @@ Free job boards and aggregators to post open roles.
 - **[STAR Interview Question Bank](https://github.com)** — Structured interview question library.
 - **[Greenhouse Interview Kit Templates](https://greenhouse.io/resources)** — Free interview scorecards.
 - **[Lever Interview Templates](https://lever.co/resources)** — Free structured interview guides.
+- **[Interview Templates](https://github.com/interviewersignal/interview-templates)** — Free scorecard, rating scale, debrief, reference check and recording consent templates (CC BY 4.0).
 
 ## Chrome Extensions
 
