@@ -138,6 +138,7 @@ Free job boards and aggregators to post open roles.
 - **[Otta](https://otta.com)** — Tech job board. Free for candidates and employers.
 - **[Pallet](https://pallet.xyz)** — Community-based job boards. Free tier.
 - **[Contra](https://contra.com)** — Freelance and contract talent. Free to post.
+- **[caio.pro](https://caio.pro)** — AI leadership job board; free to browse, with paid featured placements.
 
 ## Boolean Search Tools
 
