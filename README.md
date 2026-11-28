@@ -212,6 +212,7 @@ Free job boards and aggregators to post open roles.
 - **[Google Sheets Recruiting Tracker Template](https://docs.google.com/spreadsheets)** — Free candidate pipeline tracking.
 - **[Notion Recruiting OS](https://notion.so/templates)** — Free recruiting workflow templates.
 - **[Job Description Templates](https://ninjahire.co/thoughts)** — AI-optimized JD templates for staffing.
+- **[Remote Job Posting Checklist](https://workinvirtual.com/what-should-a-remote-job-posting-include-an-eligibility-first-employer-checklist/)** — Free template for stating eligible locations, time-zone overlap, pay, and application routes.
 - **[STAR Interview Question Bank](https://github.com)** — Structured interview question library.
 - **[Greenhouse Interview Kit Templates](https://greenhouse.io/resources)** — Free interview scorecards.
 - **[Lever Interview Templates](https://lever.co/resources)** — Free structured interview guides.
